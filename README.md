@@ -1,10 +1,10 @@
 # Olá! Eu sou a Letícia 👋
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Sou desenvolvedora de software apaixonada por Python e tecnologias web. Atualmente estou aprimorando minhas habilidades em **.NET** e explorando novas oportunidades no desenvolvimento de software.
+Sou desenvolvedora de software apaixonada por **Python** e tecnologias web. Atualmente, estou aprimorando minhas habilidades em **.NET**, enquanto também exploro **React** e **Angular** para o desenvolvimento front-end. Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e contribuir em projetos inovadores.
 
 - 🌱 Atualmente, estou estudando **.NET**, **React**, **Angular** e **Python**
-- 💻 Meus interesses são em **back-end development**, **automação**, **desenvolvimento web** e **front-end** com **React** e **Angular**
+- 💻 Tenho um forte interesse em **back-end development**, onde utilizo tecnologias como **.NET** e **Python** para criar soluções robustas. Além disso, estou explorando **automação** e **desenvolvimento web**, com foco em experiências dinâmicas em **front-end** usando **React** e **Angular**. Estou sempre em busca de oportunidades para aplicar minhas habilidades em **Python** e aprender novas tecnologias!
 - 🎯 Meta para 2024: Contribuir com mais projetos open-source
 
 ## 🚀 Tecnologias & Ferramentas

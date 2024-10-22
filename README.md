@@ -9,7 +9,7 @@ Sou desenvolvedora de software apaixonada por **Python** e tecnologias web. Atua
 
 ## 🚀 Tecnologias & Ferramentas
 
-![Tech](link-do-gif-aqui)
+![Innovation](https://media.giphy.com/media/xUOwGkP4ANnRSyfK7C/giphy.gif)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)

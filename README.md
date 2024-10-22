@@ -20,4 +20,8 @@ Sou desenvolvedora de software apaixonada por Python e tecnologias web. Atualmen
 ![Letícia's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiafcarvalho&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiafcarvalho&layout=compact&theme=radical)
 
+## 📫 Como me encontrar
+
+[![Linkedin Badge](https://img.shields.io/badge/-Letícia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/let%C3%ADcia-franco-carvalho-machado-de-azevedo-greve-799407169/)](https://www.linkedin.com/in/let%C3%ADcia-franco-carvalho-machado-de-azevedo-greve-799407169/)
+[![Gmail Badge](https://img.shields.io/badge/-leticia.fgreve@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leticia.fgreve@gmail.com)](mailto:leticia.fgreve@gmail.com)
 

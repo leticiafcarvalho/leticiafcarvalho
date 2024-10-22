@@ -1,4 +1,5 @@
 # Olá! Eu sou a Letícia 👋
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 Sou desenvolvedora de software apaixonada por Python e tecnologias web. Atualmente estou aprimorando minhas habilidades em **.NET** e explorando novas oportunidades no desenvolvimento de software.
 
